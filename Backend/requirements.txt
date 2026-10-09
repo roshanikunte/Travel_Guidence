@@ -1,0 +1,5 @@
+Flask
+Flask-Cors
+google-genai
+requests
+gunicorn
